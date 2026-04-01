@@ -1,8 +1,12 @@
 Facial Emotion Recognition (FER) with Deep Learning
 
+
 End-to-End Facial Emotion Recognition pipeline using CNN and MLP on the ICML Face Dataset (48x48 grayscale images, 7 emotions).
 
+
 ✨ Features
+
+
 Model           Architecture                  Key Techniques
 
 CNN             Conv2D(48) + Dense(96)        Data Augmentation, Class Weights, Dropout
