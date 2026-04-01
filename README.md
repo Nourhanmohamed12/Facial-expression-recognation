@@ -141,15 +141,6 @@ VARIANCE_THRESHOLD = 0.98
 N_COMPONENTS = 100
 
 # Class Weights (adjust for imbalance)
-📁 File Structure
-
-├── icml_face_data.csv     # 35K+ images (100MB)
-├── fer_analysis.ipynb     # Complete pipeline
-├── utils.py              # Helper functions
-├── models/               # Saved models
-│   ├── cnn_model.h5
-│   └── mlp_model.h5
-└── README.md            # This file
 
 👩‍💻 Author
 Nourhan Mohammed
